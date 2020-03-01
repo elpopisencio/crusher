@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+@keyframes fall {
+  from {
+    margin-top: -100vh;
+  }
+  to {
+    margin-top: 0;
+  }
+}

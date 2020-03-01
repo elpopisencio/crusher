@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crusher/static/css/main.a9f7d57c.chunk.css",
-    "main.js": "/crusher/static/js/main.13f0e2b5.chunk.js",
-    "main.js.map": "/crusher/static/js/main.13f0e2b5.chunk.js.map",
+    "main.js": "/crusher/static/js/main.40c2a785.chunk.js",
+    "main.js.map": "/crusher/static/js/main.40c2a785.chunk.js.map",
     "runtime-main.js": "/crusher/static/js/runtime-main.e8090e78.js",
     "runtime-main.js.map": "/crusher/static/js/runtime-main.e8090e78.js.map",
     "static/js/2.a7bb9eb1.chunk.js": "/crusher/static/js/2.a7bb9eb1.chunk.js",
     "static/js/2.a7bb9eb1.chunk.js.map": "/crusher/static/js/2.a7bb9eb1.chunk.js.map",
     "index.html": "/crusher/index.html",
-    "precache-manifest.de5a3e1ed32445d7c3e5726fe111815b.js": "/crusher/precache-manifest.de5a3e1ed32445d7c3e5726fe111815b.js",
+    "precache-manifest.a559699c8a480aa9e57e0d8ef7bfd8ef.js": "/crusher/precache-manifest.a559699c8a480aa9e57e0d8ef7bfd8ef.js",
     "service-worker.js": "/crusher/service-worker.js",
     "static/css/main.a9f7d57c.chunk.css.map": "/crusher/static/css/main.a9f7d57c.chunk.css.map",
     "static/js/2.a7bb9eb1.chunk.js.LICENSE.txt": "/crusher/static/js/2.a7bb9eb1.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.e8090e78.js",
     "static/js/2.a7bb9eb1.chunk.js",
     "static/css/main.a9f7d57c.chunk.css",
-    "static/js/main.13f0e2b5.chunk.js"
+    "static/js/main.40c2a785.chunk.js"
   ]
 }

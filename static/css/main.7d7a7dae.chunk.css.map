@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SACF,CACA,wBACE,GACE,iBACF,CACA,GACE,YACF,CACF,CAPA,gBACE,GACE,iBACF,CACA,GACE,YACF,CACF","file":"main.7d7a7dae.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n@keyframes fall {\n  from {\n    margin-top: -100vh;\n  }\n  to {\n    margin-top: 0;\n  }\n}"]}

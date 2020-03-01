@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/crusher/static/css/main.a9f7d57c.chunk.css",
-    "main.js": "/crusher/static/js/main.defe4724.chunk.js",
-    "main.js.map": "/crusher/static/js/main.defe4724.chunk.js.map",
+    "main.css": "/crusher/static/css/main.36850947.chunk.css",
+    "main.js": "/crusher/static/js/main.752f8b37.chunk.js",
+    "main.js.map": "/crusher/static/js/main.752f8b37.chunk.js.map",
     "runtime-main.js": "/crusher/static/js/runtime-main.e8090e78.js",
     "runtime-main.js.map": "/crusher/static/js/runtime-main.e8090e78.js.map",
     "static/js/2.a7bb9eb1.chunk.js": "/crusher/static/js/2.a7bb9eb1.chunk.js",
     "static/js/2.a7bb9eb1.chunk.js.map": "/crusher/static/js/2.a7bb9eb1.chunk.js.map",
     "index.html": "/crusher/index.html",
-    "precache-manifest.5c6f583462c57e1ec0528ee08202ce0e.js": "/crusher/precache-manifest.5c6f583462c57e1ec0528ee08202ce0e.js",
+    "precache-manifest.c9c28f2dc23e99ab61e18dd0b61a9bd5.js": "/crusher/precache-manifest.c9c28f2dc23e99ab61e18dd0b61a9bd5.js",
     "service-worker.js": "/crusher/service-worker.js",
-    "static/css/main.a9f7d57c.chunk.css.map": "/crusher/static/css/main.a9f7d57c.chunk.css.map",
+    "static/css/main.36850947.chunk.css.map": "/crusher/static/css/main.36850947.chunk.css.map",
     "static/js/2.a7bb9eb1.chunk.js.LICENSE.txt": "/crusher/static/js/2.a7bb9eb1.chunk.js.LICENSE.txt",
     "static/media/011-core.svg": "/crusher/static/media/011-core.43b7ec96.svg",
     "static/media/014-bottle.svg": "/crusher/static/media/014-bottle.8cc28b50.svg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8090e78.js",
     "static/js/2.a7bb9eb1.chunk.js",
-    "static/css/main.a9f7d57c.chunk.css",
-    "static/js/main.defe4724.chunk.js"
+    "static/css/main.36850947.chunk.css",
+    "static/js/main.752f8b37.chunk.js"
   ]
 }
